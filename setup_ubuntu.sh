@@ -56,5 +56,8 @@ sudo snap install zoom-client
 echo 'install Peek'
 sudo apt-get -y install peek
 
-echo 'install LaTeX'
+echo 'install LaTeX (textlive-extra)'
 sudo apt-get install -y texlive-latex-extra
+
+echo 'install Pandoc'
+sudo apt-get install -y pandoc
