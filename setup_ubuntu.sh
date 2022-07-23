@@ -61,3 +61,6 @@ sudo apt-get install -y texlive-latex-extra
 
 echo 'install Pandoc'
 sudo apt-get install -y pandoc
+
+echo 'display day of the week in the date time display'
+gsettings set org.gnome.desktop.interface clock-show-weekday true
