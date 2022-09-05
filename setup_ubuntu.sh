@@ -64,3 +64,6 @@ sudo apt-get install -y pandoc
 
 echo 'display day of the week in the date time display'
 gsettings set org.gnome.desktop.interface clock-show-weekday true
+
+echo 'install htop'
+sudo apt-get install -y htop
