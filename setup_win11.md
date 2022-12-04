@@ -25,6 +25,12 @@ This markdown file is a description of how I set up a Windows 11 computer from t
  * Firefox
  * PyCharm (thru jetbrains toolbox)
  * VLC
+ * PuTTY and PuTTY Gen
+ * Filezilla
+ * Windows Terminal
 
 ### Performance / UI customization
+
+ * Configure Windowns Terminal to use Anaconda
+ * Create SSH key and use for git
 
