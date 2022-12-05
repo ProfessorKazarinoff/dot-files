@@ -42,6 +42,7 @@ Use win11 de-bloat tool from Craft Computing YouTube video.
 
  * Configure Windowns Terminal to use Anaconda
  * Create SSH key and use for git
- * Remove all unwanted programs 
+ * Remove all unwanted programs
+ * Remove startup programs 
 
 
