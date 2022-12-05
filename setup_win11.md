@@ -16,6 +16,8 @@ This markdown file is a description of how I set up a Windows 11 computer from t
 
 ## Software Install
 
+Use win11 de-bloat tool from Craft Computing YouTube video.
+
 ### List of Applications
 
  * OBS
@@ -23,14 +25,23 @@ This markdown file is a description of how I set up a Windows 11 computer from t
  * VS Code
  * Chrome
  * Firefox
- * PyCharm (thru jetbrains toolbox)
- * VLC
+ * JetBrains Toolbox (PyCharm)
+ * VLC Media Player
  * PuTTY and PuTTY Gen
  * Filezilla
- * Windows Terminal
+ * Windows Terminal (the new one)
+ * Focusrite Control (USB Audio Interface)
+ * Zoom
+ * RodcasterPro App
+ * TexWorks (LaTeX) or MiKTeX
+ * Arduino
+ * Belena Etcher (to make USB media)
+ * Brother Printer drivers
 
 ### Performance / UI customization
 
  * Configure Windowns Terminal to use Anaconda
  * Create SSH key and use for git
+ * Remove all unwanted programs 
+
 
