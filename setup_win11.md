@@ -16,7 +16,7 @@ This markdown file is a description of how I set up a Windows 11 computer from t
 
 ## Software Install
 
-Use win11 de-bloat tool from Craft Computing YouTube video.
+Use win11 de-bloat tool from Craft Computing YouTube video. [https://github.com/builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11)
 
 ### List of Applications
 
@@ -38,11 +38,26 @@ Use win11 de-bloat tool from Craft Computing YouTube video.
  * Belena Etcher (to make USB media)
  * Brother Printer drivers
 
+### winget install - applications to install (or can be installed) with winget
+
+Can maybe create a batch script here: [https://winstall.app/](https://winstall.app/)
+
+ * VS Code
+ * Chrome
+ * Firefox
+ * Zoom
+ * MikTeX
+ * Anaconda3
+ * OBS
+ * 7-zip
+ * Arduino?
+ * Filezilla ```winget install --id=TimKosse.FileZilla.Client -e```
+ * Steam ```winget install --id=Valve.Steam  -e```
+ * nvidia gforce experience
+
 ### Performance / UI customization
 
  * Configure Windowns Terminal to use Anaconda
  * Create SSH key and use for git
  * Remove all unwanted programs
  * Remove startup programs 
-
-
