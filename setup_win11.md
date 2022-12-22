@@ -47,8 +47,10 @@ Maybe create a batch script here: [https://winstall.app/](https://winstall.app/)
  * Steam ```winget install --id=Valve.Steam  -e```
  * nvidia gforce experience
  * Elgato Streamdeck
- * Balena.Etcher
+ * Balena.Etcher ```winget install --id=Balena.Etcher -e```
  * VLC Media Player ```winget install --id=VideoLAN.VLC -e```
+ * Greenshot screen shot utility ```winget install --id=Greenshot.Greenshot -e```
+ * Snagit (commercial screen recorder) ```winget install --id=TechSmith.Snagit.2023 -e``` (can also try 2022?)
 
 ### Install applications that can't be installed with winget or the Win11 debloat tool
 
@@ -57,7 +59,6 @@ Maybe create a batch script here: [https://winstall.app/](https://winstall.app/)
  * RodeCentral App
  * Insta360 Link Controller [https://www.insta360.com/download/insta360-link](https://www.insta360.com/download/insta360-link)
  * Brother Printer drivers
- * Snagit
 
 ### Performance / UI customization
 
