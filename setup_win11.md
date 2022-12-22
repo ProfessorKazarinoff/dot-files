@@ -48,6 +48,7 @@ Maybe create a batch script here: [https://winstall.app/](https://winstall.app/)
  * nvidia gforce experience
  * Elgato Streamdeck
  * Balena.Etcher
+ * VLC Media Player ```winget install --id=VideoLAN.VLC -e```
 
 ### Install applications that can't be installed with winget or the Win11 debloat tool
 
