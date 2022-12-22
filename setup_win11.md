@@ -21,26 +21,18 @@ Use win11 de-bloat tool from Craft Computing YouTube video. [https://github.com/
 ### List of Applications
 
  * OBS
- * Anaconda
  * VS Code
  * Chrome
  * Firefox
- * JetBrains Toolbox (PyCharm)
  * VLC Media Player
  * PuTTY and PuTTY Gen
- * Filezilla
+ * FileZilla
  * Windows Terminal (the new one)
- * Focusrite Control (USB Audio Interface)
  * Zoom
- * RodcasterPro App
- * TexWorks (LaTeX) or MiKTeX
- * Arduino
- * Belena Etcher (to make USB media)
- * Brother Printer drivers
 
 ### winget install - applications to install (or can be installed) with winget
 
-Can maybe create a batch script here: [https://winstall.app/](https://winstall.app/)
+Maybe create a batch script here: [https://winstall.app/](https://winstall.app/)
 
  * VS Code
  * Chrome
@@ -50,10 +42,21 @@ Can maybe create a batch script here: [https://winstall.app/](https://winstall.a
  * Anaconda3
  * OBS
  * 7-zip
- * Arduino?
+ * Arduino
  * Filezilla ```winget install --id=TimKosse.FileZilla.Client -e```
  * Steam ```winget install --id=Valve.Steam  -e```
  * nvidia gforce experience
+ * Elgato Streamdeck
+ * Balena.Etcher
+
+### Install applications that can't be installed with winget or the Win11 debloat tool
+
+ * Focusrite Control
+ * RodcasterPro App
+ * RodeCentral App
+ * Insta360 Link Controller [https://www.insta360.com/download/insta360-link](https://www.insta360.com/download/insta360-link)
+ * Brother Printer drivers
+ * Snagit
 
 ### Performance / UI customization
 
