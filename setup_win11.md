@@ -8,6 +8,8 @@ This markdown file is a description of how I set up a Windows 11 computer from t
 
 ### Install Windows
 
+Use the offline installer and install without an internet connection and without a microsoft account
+
 ## Driver Install
 
 ### Chipset Drivers
@@ -59,6 +61,12 @@ Maybe create a batch script here: [https://winstall.app/](https://winstall.app/)
  * RodeCentral App
  * Insta360 Link Controller [https://www.insta360.com/download/insta360-link](https://www.insta360.com/download/insta360-link)
  * Brother Printer drivers
+
+### Install WSL (Windows subsystem for Linux)
+
+run cmd as administrator
+
+```wsl --install```
 
 ### Performance / UI customization
 
