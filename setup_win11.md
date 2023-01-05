@@ -44,7 +44,6 @@ Maybe create a batch script here: [https://winstall.app/](https://winstall.app/)
  * Anaconda3
  * OBS
  * 7-zip
- * Arduino
  * Filezilla ```winget install --id=TimKosse.FileZilla.Client -e```
  * Steam ```winget install --id=Valve.Steam  -e```
  * nvidia gforce experience
