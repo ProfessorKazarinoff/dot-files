@@ -8,7 +8,7 @@ This markdown file is a description of how I set up a Windows 11 computer from t
 
 ### Install Windows
 
-Use the offline installer and install without an internet connection and without a microsoft account
+Use the offline installer and install without an internet connection and without a Microsoft account
 
 ## Driver Install
 
@@ -46,7 +46,7 @@ Maybe create a batch script here: [https://winstall.app/](https://winstall.app/)
  * 7-zip
  * Filezilla ```winget install --id=TimKosse.FileZilla.Client -e```
  * Steam ```winget install --id=Valve.Steam  -e```
- * nvidia gforce experience
+ * Nvidia gforce experience
  * Elgato Streamdeck
  * Balena.Etcher ```winget install --id=Balena.Etcher -e```
  * VLC Media Player ```winget install --id=VideoLAN.VLC -e```
