@@ -1,3 +1,3 @@
 # dot-files
 
-Dot files, setup files, .bashrc, .bsh_aliases, helper scripts
+Dot files, setup files, .bashrc, .bash_aliases, helper scripts
