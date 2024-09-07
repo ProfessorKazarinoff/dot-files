@@ -31,27 +31,29 @@ Use win11 de-bloat tool from Craft Computing YouTube video. [https://github.com/
  * FileZilla
  * Windows Terminal (the new one)
  * Zoom
+ * ffmpeg
 
 ### winget install - applications to install (or can be installed) with winget
 
 Maybe create a batch script here: [https://winstall.app/](https://winstall.app/)
 
- * VS Code
+ * VS Code ```winget install --id=Microsoft.VisualStudioCode -e```
  * Chrome
  * Firefox
  * Zoom
  * MikTeX
  * Anaconda3
  * OBS
- * 7-zip
+ * 7-zip 
  * Filezilla ```winget install --id=TimKosse.FileZilla.Client -e```
  * Steam ```winget install --id=Valve.Steam  -e```
  * Nvidia gforce experience
- * Elgato Streamdeck
+ * Elgato Streamdeck ```winget install --id=Elgato.StreamDeck -e```
  * Balena.Etcher ```winget install --id=Balena.Etcher -e```
  * VLC Media Player ```winget install --id=VideoLAN.VLC -e```
  * Greenshot screen shot utility ```winget install --id=Greenshot.Greenshot -e```
  * Snagit (commercial screen recorder) ```winget install --id=TechSmith.Snagit.2023 -e``` (can also try 2022?)
+ * ffmpeg (commandline video utility) ```winget install --id=Gyan.FFmpeg -e```
 
 ### Install applications that can't be installed with winget or the Win11 debloat tool
 
