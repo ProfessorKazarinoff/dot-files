@@ -54,6 +54,7 @@ Maybe create a batch script here: [https://winstall.app/](https://winstall.app/)
  * Greenshot screen shot utility ```winget install --id=Greenshot.Greenshot -e```
  * Snagit (commercial screen recorder) ```winget install --id=TechSmith.Snagit.2023 -e``` (can also try 2022?)
  * ffmpeg (commandline video utility) ```winget install --id=Gyan.FFmpeg -e```
+ * 1password ```winget install --winget install --id=AgileBits.1Password -e```
 
 ### Install applications that can't be installed with winget or the Win11 debloat tool
 
